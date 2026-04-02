@@ -151,10 +151,10 @@ Step 5 → Power BI Dashboard
 ![Demographics](ASSETS/Demographics_Page.png)
 
 **Match Analysis Page**
-![Match Analysis](ASSETS/Match_Analysis_Page.png)
+![Match Analysis](ASSETS/Match Analysis_Page.png)
 
 **Ads & Revenue Page**
-![Ads & Revenue](ASSETS/Ads_&_Revenue_Page.png)
+![Ads & Revenue](ASSETS/Ads & Revenue_Page.png)
 
 ---
 
