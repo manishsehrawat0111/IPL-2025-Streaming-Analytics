@@ -23,7 +23,7 @@ IPL-2025-Streaming-Analytics/
 │     └── Ads_&_Revenue_Page.png
 │
 ├── 📁 DASHBOARD/                       # Power BI Dashboard
-│     └── IPL_DASHBOARD.pbix
+│     └── (Dashboard available on Google Drive)
 │
 ├── 📁 DATA/                            # Dataset Files
 │     ├── 📁 ROW_DATA/
