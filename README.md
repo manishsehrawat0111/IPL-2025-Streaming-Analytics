@@ -67,6 +67,15 @@ Download from Google Drive:
 
 ---
 
+## 📊 Dashboard Download
+
+Power BI Dashboard file is too large for GitHub (119MB+).
+
+Download from Google Drive:
+👉 [IPL_DASHBOARD.pbix](YOUR_GOOGLE_DRIVE_LINK)
+
+---
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
