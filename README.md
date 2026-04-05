@@ -108,7 +108,7 @@ Step 5 → Power BI Dashboard
 - Live streaming was the most preferred content type
 
 ### Platform & Device
-- **JioHotstar** dominates with **72% share**
+- **JioHotstar** dominates with **75% share**
 - **Mobile** is the most used device
 - **Premium** subscription users are highest
 
