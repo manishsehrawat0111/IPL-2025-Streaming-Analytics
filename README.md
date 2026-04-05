@@ -114,7 +114,7 @@ Step 5 → Power BI Dashboard
 
 ### Demographics
 - Most active age group: **26-35 years**
-- Male viewers: **52%**, Female: **45%**
+- Male viewers: **62%**, Female: **36%**
 - Top state: **Maharashtra**
 - Second state: **Delhi**
 
